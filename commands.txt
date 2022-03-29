@@ -1,0 +1,7 @@
+pipenv shell (activting the virtual env)
+pipenv install "package name" (installing a package)
+python manage.py runserver (start the server)
+python manage.py makemigrations (stage database changes)
+python manage.py migrate (migrate staged changes to the database)
+py manage.py createsuperuser (createing a super user)
+coverage run manage.py test (for running tests)
